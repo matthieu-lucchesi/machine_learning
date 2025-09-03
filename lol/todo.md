@@ -1,6 +1,3 @@
 # TODO
-* Test pd.get_dummies() [X]
+* Test pd.get_dummies() ✅
 * Test NN and compare with classification algorithms
-
-- [ ] test
-- [X] test
