@@ -3,4 +3,4 @@
 * Test NN and compare with classification algorithms
 
 - [ ] test
-- [x] test
+- [X] test
